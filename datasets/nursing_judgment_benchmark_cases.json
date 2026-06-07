@@ -1,0 +1,41 @@
+[
+{
+"scenario_id": 301,
+"specialty": "Clinical Nursing Judgment",
+"patient_scenario": "Following surgery, a patient develops worsening pain, an elevated heart rate, decreasing blood pressure, and a dressing saturated with blood.",
+"assessment_question": "What should be the immediate nursing priority?",
+"reasoning_targets": [
+"Identify potential postoperative hemorrhage",
+"Evaluate hemodynamic stability and wound status",
+"Initiate urgent escalation procedures"
+],
+"reference_response": "The findings raise concern for postoperative bleeding. Priority actions include assessing the surgical site, monitoring vital signs, evaluating mental status, quantifying drainage, maintaining patient safety, notifying the surgical team promptly, and preparing for possible emergency intervention.",
+"complexity": "Moderate"
+},
+{
+"scenario_id": 302,
+"specialty": "Medication Safety",
+"patient_scenario": "A patient receiving opioid analgesics becomes difficult to arouse and has a respiratory rate of 7 breaths per minute.",
+"assessment_question": "What complication should be suspected and what actions are required?",
+"reasoning_targets": [
+"Recognize opioid-related respiratory compromise",
+"Prioritize airway and ventilation assessment",
+"Escalate care according to emergency protocols"
+],
+"reference_response": "The presentation is concerning for opioid-induced respiratory depression. Immediate actions include assessing airway patency, monitoring respiratory effort and oxygen saturation, stimulating the patient, activating appropriate clinical support, and preparing reversal therapy in accordance with facility protocols.",
+"complexity": "High"
+},
+{
+"scenario_id": 303,
+"specialty": "Endocrine and Nursing Care",
+"patient_scenario": "A patient with diabetes is sweating, trembling, confused, and has a blood glucose measurement of 48 mg/dL.",
+"assessment_question": "What intervention should be prioritized first?",
+"reasoning_targets": [
+"Recognize symptomatic hypoglycemia",
+"Address the immediate glucose deficit",
+"Verify treatment effectiveness through reassessment"
+],
+"reference_response": "The patient is experiencing hypoglycemia. Immediate treatment should follow established protocols, including administration of fast-acting glucose if the patient can safely swallow or alternative therapies such as intravenous dextrose when indicated. Blood glucose should be rechecked after treatment and ongoing monitoring provided.",
+"complexity": "Foundational"
+}
+]

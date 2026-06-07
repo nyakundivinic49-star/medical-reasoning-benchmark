@@ -1,0 +1,41 @@
+[
+{
+"scenario_id": 101,
+"specialty": "Intensive Care",
+"patient_scenario": "A 67-year-old patient in the ICU presents with fever, low blood pressure, elevated heart rate, increased serum lactate, altered mental status, and decreased urine output.",
+"assessment_question": "What condition should be suspected and what immediate management priorities should be addressed?",
+"reasoning_targets": [
+"Identify septic shock as a likely diagnosis",
+"Recognize signs of impaired tissue perfusion",
+"Prioritize stabilization and early sepsis management"
+],
+"reference_response": "The presentation is highly suggestive of septic shock. Priority actions include assessment of airway, breathing, and circulation; establishment of intravenous access; fluid resuscitation; collection of blood cultures when appropriate; prompt administration of broad-spectrum antibiotics; monitoring of lactate trends and urine output; and escalation to the critical care team.",
+"complexity": "Moderate"
+},
+{
+"scenario_id": 102,
+"specialty": "Respiratory Critical Care",
+"patient_scenario": "A mechanically ventilated ICU patient develops worsening hypoxemia, increasing respiratory distress indicators, and diffuse bilateral infiltrates on imaging.",
+"assessment_question": "Which complication should be considered and what clinical evaluations are required?",
+"reasoning_targets": [
+"Recognize possible acute respiratory distress syndrome",
+"Evaluate respiratory function and ventilator performance",
+"Assess severity and contributing causes"
+],
+"reference_response": "Acute Respiratory Distress Syndrome (ARDS) should be considered. Evaluation should include oxygenation status, arterial blood gas analysis, ventilator settings, chest imaging findings, lung mechanics, hemodynamic stability, and investigation of precipitating conditions such as infection, aspiration, trauma, or systemic inflammation.",
+"complexity": "High"
+},
+{
+"scenario_id": 103,
+"specialty": "Hemodynamic Management",
+"patient_scenario": "A patient receiving vasopressor therapy develops cool extremities, declining urine output, and worsening confusion despite ongoing treatment.",
+"assessment_question": "What do these findings indicate and what should be evaluated next?",
+"reasoning_targets": [
+"Identify signs of inadequate organ perfusion",
+"Consider progression of circulatory shock",
+"Prioritize reassessment of hemodynamic status"
+],
+"reference_response": "These findings may indicate worsening circulatory failure and inadequate tissue perfusion. Immediate evaluation should include blood pressure trends, mean arterial pressure, lactate levels, urine output, response to vasopressors, fluid status, and overall organ function. Escalation to the responsible critical care provider is warranted.",
+"complexity": "High"
+}
+]

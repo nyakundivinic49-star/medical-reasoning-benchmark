@@ -74,12 +74,6 @@ This project highlights capabilities relevant to:
 
 ## Maintainer
 
-**Wilfred K.**
+**Vinic.N**
 
 AI Trainer • Critical Care Nursing Professional • Healthcare AI Evaluator
-
----
-
-## Disclaimer
-
-This repository is intended for education, benchmarking, and AI evaluation purposes only. It should not be used as medical advice, diagnosis, treatment guidance, or clinical decision support.
